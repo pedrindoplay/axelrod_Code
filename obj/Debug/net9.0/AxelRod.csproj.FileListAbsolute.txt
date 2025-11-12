@@ -12,3 +12,4 @@ C:\Users\manja\OneDrive\Área de Trabalho\c#\AxelRod\obj\Debug\net9.0\refint\Axe
 C:\Users\manja\OneDrive\Área de Trabalho\c#\AxelRod\obj\Debug\net9.0\AxelRod.pdb
 C:\Users\manja\OneDrive\Área de Trabalho\c#\AxelRod\obj\Debug\net9.0\AxelRod.genruntimeconfig.cache
 C:\Users\manja\OneDrive\Área de Trabalho\c#\AxelRod\obj\Debug\net9.0\ref\AxelRod.dll
+C:\Users\manja\OneDrive\Área de Trabalho\c#\AxelRod\obj\Debug\net9.0\AxelRod.sourcelink.json

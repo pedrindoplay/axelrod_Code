@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AxelRod")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c220f7e8c188dbaed89482678c1d4b77d13fd790")]
 [assembly: System.Reflection.AssemblyProductAttribute("AxelRod")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AxelRod")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
